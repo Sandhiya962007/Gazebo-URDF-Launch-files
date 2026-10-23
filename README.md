@@ -29,10 +29,4 @@ The Gazebo differential-drive plugin controls the robot using the `cmd_vel` topi
 - Gazebo simulation support
 
 ## Purpose
-The project provides a basic mobile robot model for learning robot modeling, simulation, movement control, and future integration of LiDAR-based navigation.# Differential Drive Robot – ROS 2 & Gazebo
-
-
-- Gazebo simulation support
-
-## Purpose
-The project provides a basic mobile robot model for learning robot modeling, simulation, movement control, and future integration of LiDAR-based navigation.
+The project provides a basic mobile robot model for learning robot modeling, simulation, movement control, and future integration of LiDAR-based navigation.# Differential Drive Robot – ROS 2 & Gazebo robot model for learning robot modeling, simulation, movement control, and future integration of LiDAR-based navigation.
